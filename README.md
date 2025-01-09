@@ -49,7 +49,7 @@
 
 ---
 ## 🔧 Download
-The Copilot Security Extension can be downloaded from this Github
+The Copilot Security Extension can be downloaded [here](https://github.com/itssixtyn3in/Copilot-AI-Security-Extension/raw/refs/heads/main/CoPilotSecurityExtension.exe)
 
 
 ## 🔧 Installation
