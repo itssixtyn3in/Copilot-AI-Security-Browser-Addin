@@ -122,12 +122,6 @@ We welcome contributions! Check out our [CONTRIBUTING.md](CONTRIBUTING.md) to ge
 
 ---
 
-## 🛡️ Security
-
-For any security concerns or vulnerability disclosures, please contact us at **security@microsoft.com**.
-
----
-
 ## 📜 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
